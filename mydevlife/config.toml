@@ -1,0 +1,4 @@
+baseURL = 'https://ShyamKumar1.github.io/'
+languageCode = 'en-us'
+title = 'Shyam Kumar Blog'
+theme = 'PaperMod'

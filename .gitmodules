@@ -1,0 +1,4 @@
+[submodule "mydevlife/public"]
+	path = mydevlife/public
+	url = https://github.com/ShyamKumar1/ShyamKumar1.github.io.git
+	branch = main
